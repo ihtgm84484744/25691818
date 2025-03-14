@@ -1,3 +1,4 @@
+} finally {
 ps.close();
 test.fetch();
 if (out != null) {
